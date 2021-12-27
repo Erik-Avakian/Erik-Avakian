@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python and software testing.
 - 📫 How to reach me:
 Mail: jobb.avakian@gmail.com
-Discord: Haze#2654
+Discord: Haze#3301
 
 <!---
 Erik-Avakian/Erik-Avakian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
